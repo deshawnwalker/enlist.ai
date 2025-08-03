@@ -10,6 +10,7 @@ const GeneratePage = ({ userProfile }) => {
 
     console.log("Full UserProfile being sent to backend:");
     console.log(JSON.stringify(userProfile, null, 2));
+    console.log("🧪 API URL:", process.env.REACT_APP_API_URL);
 
     try {
       const res = await fetch(`${process.env.REACT_APP_API_URL}/recommend`, {
