@@ -10,6 +10,7 @@ import json
 
 load_dotenv(dotenv_path=Path(__file__).resolve().parents[1] / ".env")
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
 app = FastAPI()
 
 with open("afscs.txt", "r", encoding="utf-8") as f:
@@ -17,7 +18,7 @@ with open("afscs.txt", "r", encoding="utf-8") as f:
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://enlist-ai.vercel.app"],  # 👈 Your Vercel frontend domain
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
