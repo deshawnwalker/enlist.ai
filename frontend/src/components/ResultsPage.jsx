@@ -48,10 +48,10 @@ const ResultsPage = () => {
             <h2 className="text-2xl font-semibold text-[#1C4DA1] mb-3">
               {job.code}: {job.title}
             </h2>
-            <p className="text-[#D3D3D3] mb-4 font-mono">
+            <p className="text-[#D3D3D3] mb-4 font-semibold">
               <strong>Summary:</strong> {job.summary}
             </p>
-            <p className="text-[#D3D3D3] font-mono">
+            <p className="text-[#D3D3D3] font-semibold">
               <strong>Why it's a good fit:</strong> {job.justification}
             </p>
           </div>
