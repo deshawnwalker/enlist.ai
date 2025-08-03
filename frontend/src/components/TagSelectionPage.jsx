@@ -5,8 +5,8 @@ const tagOptions = [
   "Cybersecurity", "Administration", "Aviation", "Technical", "Mechanical", "Electrical", "Analytical", "Physical Fitness",
   "Communication", "Leadership", "Attention to Detail", "Troubleshooting", "Teamwork", "Aircraft", "Computers", "Machinery",
   "Field Work", "Lab Work", "Indoor Work", "Outdoor Work", "Classified Systems", "Remote Sensing", "Surveillance",
-  "Combat Support", "Reconnaissance", "Humanitarian", "Tactical Support", "Nuclear Operations", "Intelligence Collection",
-  "Cyber Operations", "Aircrew"
+  "Combat Support", "Reconnaissance", "Humanitarian", "Tactical Support", "Nuclear Operations",
+  "Cyber Operations", "Aircrew", "Combat",
 ];
 
 const TagSelectionPage = ({ userProfile, setUserProfile, onNext }) => {
