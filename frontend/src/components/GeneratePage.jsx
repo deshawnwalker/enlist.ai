@@ -12,7 +12,7 @@ const GeneratePage = ({ userProfile }) => {
     console.log(JSON.stringify(userProfile, null, 2));
 
     try {
-      const res = await fetch("http://localhost:8000/recommend", {
+      const res = await fetch("${process.env.REACT_APP_API_URL}/recommend", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(userProfile),
