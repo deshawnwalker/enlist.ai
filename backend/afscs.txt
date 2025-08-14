@@ -390,7 +390,7 @@ ASVAB Requirements: General 66 AND Electrical 50
 As a Pararescue specialist, you will be saving airmen in hostile or unreachable areas. Special Ops Air Force Pararescuemen rescue and medically treat downed military personnel all over the world. In this job you will be trained as parachutists, scuba divers and rock climbers, and even arctic-trained to access any environment to save a life when called to do so.
 
 Pararescue specialist is one of the most dangerous and most important jobs in the Air Force. Not only do these airmen jump out of aircraft; they also provide medical treatment, search and rescue operations, and other critical services. To become a Pararescueman, You must pass the Physical Abilities and Stamina Test, which includes swimming under water for 25 meters without taking a breath, swimming 1,000 meters in less than 26 minutes, running 1.5 miles in less than 10 minutes and 30 seconds, eight chinups in less than a minute, and 50 situps, 50 pushups and 50 flutter kicks in less than two minutes each. After completing basic training, you must attend several specialized training schools before becoming a Pararescueman. These include the U.S. Air Force Basic Survival School, the Pararescue/Combat Control Indoctrination Course in Texas, the Pararescue Recovery Specialist Course, the Special Operations Combat Medic Course, and U.S. Army training such as Airborne Parachutist School, Combat Divers School, and Military Freefall Parachutist School. The job tasks include planning, leading, instructing, and directing pararescue activities while conducting Rescue and Recovery operations in combat zones. Pararescuemen must also maintain emergency medical technician paramedic certification. The primary mission of Pararescuemen is to rescue and recover downed aircrews behind enemy lines, including providing emergency medical treatment.
- Relevant tags: ['Medical', 'Physical Fitness', 'Field Work', 'Outdoor Work', 'Tactical Support']
+ Relevant tags: ['Medical', 'Physical Fitness', 'Field Work', 'Outdoor Work', 'Tactical Support', 'Combat']
 Deployment Rate: High
 Work Environment: 10% Indoor / 90% Outdoor
 ASVAB Requirements: General 44
@@ -409,14 +409,14 @@ Participating in classified and unclassified meetings with other CCT team member
 Participating in military operations, including airfield seizure, reconnaissance and surveillance, and other special operations
 
 It's important to note that depending on the specific role, a typical day may also include different responsibilities. CCT teams are highly trained, versatile, and specialized airmen who are capable of operating in remote, austere and hostile environments.
- Relevant tags: ['Operations', 'Aviation', 'Physical Fitness', 'Teamwork', 'Reconnaissance']
+ Relevant tags: ['Operations', 'Aviation', 'Physical Fitness', 'Teamwork', 'Reconnaissance','Combat']
 Deployment Rate: High
 Work Environment: 20% Indoor / 80% Outdoor
 ASVAB Requirements: General 55 AND Mechanical 55
  
 ----------------------------------------
 1Z3X1: Tactical Air Control Party (TACP) - As a Tactical Air Control Party (TACP) specialist in the 1Z3X1 career field, you will serve as a crucial link between ground forces and air assets during combat operations. Your role will involve coordinating and controlling close air support, artillery fire, and other combat support assets to provide real-time situational awareness and firepower to ground commanders. This position requires exceptional physical fitness, mental agility, specialized skills, and a dedication to supporting ground operations with precision and effectiveness.
- Relevant tags: ['Operations', 'Physical Fitness', 'Communication', 'Teamwork', 'Combat Support']
+ Relevant tags: ['Operations', 'Physical Fitness', 'Communication', 'Teamwork', 'Combat Support', 'Combat']
 Deployment Rate: High
 Work Environment: 10% Indoor / 90% Outdoor
 ASVAB Requirements: General 49
@@ -995,7 +995,7 @@ ASVAB Requirements: Administrative 21 OR General 24
 3P0X1: Security Forces - The Air Force Security Forces Specialist is tasked with providing force protection duties, guarding weapons, air bases and Air Force personnel from possible dangers. The Security Force's main goal is to keep the people, planes, base, weapons (even nuclear), and the surrounding area safe from any threat, including the intrusion by unauthorized people. The primary duties of Air Force Security Forces include detecting hostile forces, investigating criminal activity and accidents, controlling and securing terrain inside and outside of the base, and defending Air Force resources, personnel, and installations. Additional duties may include leading, managing, supervising, and performing SF activities, such as installation, weapon system, and resource security; leading, managing, supervising, and performing force protection duties, including up to the use of deadly force to protect personnel and resources, and protecting nuclear weapons and other high-value assets.
 
 Security Forces airmen are tasked with providing force protection duties, guarding weapons, air bases and Air Force personnel from possible dangers. The Security Forces main goal is to keep the people, planes, base, weapons (even nuclear), and the surrounding area safe from any threat, including the intrusion by unauthorized people. Security force members are essentially the military police within the Air Force and the branch's first line of defense. They keep the peace at all Air Force Bases around the world. This is a career field that could lead to the civilian job of police officer, or other security personnel.
- Relevant tags: ['Operations', 'Physical Fitness', 'Leadership', 'Field Work', 'Tactical Support']
+ Relevant tags: ['Operations', 'Physical Fitness', 'Leadership', 'Field Work', 'Tactical Support','Combat']
 Deployment Rate: High
 Work Environment: 10% Indoor / 90% Outdoor
 ASVAB Requirements: General 33
