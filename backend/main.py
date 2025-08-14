@@ -46,10 +46,10 @@ def recommend_afsc(profile: UserProfile):
     prompt = f"""
     You are a career advisor for the U.S. Air Force. Based on the following user profile, recommend 5 Air Force Specialty Codes (AFSCs) that align with the user's background, interests, and goals.
 
-    Be specific. Use only jobs from the provided list. For each recommended AFSC, include:
+    Be specific. Use only jobs from the provided list. You must always provide 5 AFSCs. For each recommended AFSC, include:
     1. The AFSC code and title
     2. A short summary (3-4 sentences) explaining the job, including typical duties and lifestyle.
-    2. 3. A personalized explanation (4–5 sentences) for why this job fits the user's profile. Make clear connections to the user's background, interests, and goals. Pay extra attention to the additional information section, as this will allow personalized matching and connection.
+    3. A personalized explanation (4–5 sentences) for why this job fits the user's profile. Make clear connections to the user's background, interests, and goals. Pay extra attention to the additional information section, as this will allow personalized matching and connection.
 
 
     ---
@@ -80,12 +80,12 @@ def recommend_afsc(profile: UserProfile):
     Return the recommendations in a structured format like:
     
     [
-    curlybrace
+    {{
         "code": "1D7X1",
         "title": "Cyber Defense Operation",
         "summary": "...",
         "justification": "..."
-    curlybrace,
+    }},
     ...
     ]
     
